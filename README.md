@@ -1,1 +1,1 @@
-# rgz-hackathon-2021
+# SCS Hakaton: Pogled iz orbite
