@@ -11,7 +11,7 @@ Ukoliko ste se prijavili individualno, pozivamo vas da koristite [issue tracker]
 kako biste predstavili svoje ideje i započeli konverzaciju o formiranju timova sa drugim
 učesnicima koji bi bili voljni da nastupaju u timu. Mi nismo ograničili ovo takmičenje samo na timove
 ali mislimo da se mnogo više uradi ukoliko imate pomoć!
-Kako biste kreirali issue, kliknite na New Issue, dodajte naslov i opis vaše ideje i upotrebite label
+Kako biste kreirali issue, kliknite na `New Issue`, dodajte naslov i opis vaše ideje i upotrebite label
 koji odgovara izazovu na kojem želite da radite. Do sada ste dobili poziv za [Slack](https://app.slack.com/client/T0201NHGQNB/C0201NHHH2T), 
 gde možeteda obavestite ostale takmičare o svojoj ideji i svemu ostalom što vas interesuje vezano za hackathon.
 
