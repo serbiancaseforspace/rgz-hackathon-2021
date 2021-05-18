@@ -16,7 +16,7 @@ koji odgovara izazovu na kojem želite da radite. Do sada ste dobili poziv za [S
 gde možeteda obavestite ostale takmičare o svojoj ideji i svemu ostalom što vas interesuje vezano za hackathon.
 
 ### Formiranje timova
-Ako ste postavili vašu ideju u issue tracker (hyperlink), potrudite se da pratite komentare i reakcije.
+Ako ste postavili vašu ideju u [issue tracker](https://github.com/serbiancaseforspace/rgz-hackathon-2021/issues), potrudite se da pratite komentare i reakcije.
 Ideje koje vam se sviđaju možete da ‘upvote’, a takođe pozvani ste da koristitite [Slack](https://app.slack.com/client/T0201NHGQNB/C0201NHHH2T) kako
 biste obavestili učesnike o vašoj ideji i regrutovali potencijalne članove vašeg tima.
 Registracija timova je otvorena do petka u 14h. Molim vas da popunite ovu [formu](https://docs.google.com/forms/d/1oDZK9Yj-GyNjJFXPmuMpC5J9h1d84EomQAWAPFpEEoA/prefill) sa sledećim informacijama:
@@ -26,7 +26,7 @@ Registracija timova je otvorena do petka u 14h. Molim vas da popunite ovu [formu
 - Adrese članova tima (opciono)
 Znamo da je dosadno popunjavati još jednu formu ali zamislite kao da ste ispreda stola za registraciju
 na pravom hakatonu gde dobijate bedževe na kojima piše vaše ime. Adrese su opcione, i tu stoje
-samo ukoliko želite da dobijete oficijalnu hackathon majicu kao uspomenu :)
+samo ukoliko želite da dobijete oficijalnu hackathon majicu kao uspomenu 😉
 
 ### Planetovi podaci
 Do sada je trebalo da dobijete poziv za kreiranje vašeg Planet naloga. Ukoliko niste, proverite spam
