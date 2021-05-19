@@ -19,7 +19,7 @@ gde možeteda obavestite ostale takmičare o svojoj ideji i svemu ostalom što v
 Ako ste postavili vašu ideju u [issue tracker](https://github.com/serbiancaseforspace/rgz-hackathon-2021/issues), potrudite se da pratite komentare i reakcije.
 Ideje koje vam se sviđaju možete da ‘upvote’, a takođe pozvani ste da koristitite [Slack](https://app.slack.com/client/T0201NHGQNB/C0201NHHH2T) kako
 biste obavestili učesnike o vašoj ideji i regrutovali potencijalne članove vašeg tima.
-Registracija timova je otvorena do petka u 14h. Molim vas da popunite ovu [formu](https://docs.google.com/forms/d/1oDZK9Yj-GyNjJFXPmuMpC5J9h1d84EomQAWAPFpEEoA/prefill) sa sledećim informacijama:
+Registracija timova je otvorena do petka u 14h. Molim vas da popunite ovu [formu](https://docs.google.com/forms/d/1oDZK9Yj-GyNjJFXPmuMpC5J9h1d84EomQAWAPFpEEoA/viewform?edit_requested=true) sa sledećim informacijama:
 - Ime tima
 - Administrator tima, email
 - Članovi tima
